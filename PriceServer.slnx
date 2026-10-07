@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PriceClient/PriceClient.csproj" />
+  <Project Path="PriceServer/PriceServer.csproj" />
+</Solution>
